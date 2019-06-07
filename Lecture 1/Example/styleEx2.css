@@ -1,0 +1,15 @@
+.button{
+    background: red !important;
+}
+div{
+    background: #aabb54;
+    background: rgba(155,12,46,0.5);
+
+}
+.ch[value='true']{
+
+}
+.ch[value='false']{
+    margin: 50px 60px 50px 95px;
+    margin-left: 666px;
+}

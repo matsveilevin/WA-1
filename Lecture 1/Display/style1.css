@@ -1,0 +1,21 @@
+.card{
+    width: 300px;
+    height: 800px;
+    position: relative;
+}
+#bgImage{
+    width: 300px;
+    z-index:1;
+}
+#filterWithText:hover{
+    color: white;
+    
+    width: 300px;
+    height: 800px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 2;
+    display: block;
+}
